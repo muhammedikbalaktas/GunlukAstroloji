@@ -17,3 +17,4 @@ There is there textViews inside scrollView because most probably the size of dat
 
 In the result acitivty there is a method which parses data to textViews. There is a easy way to parse data if the data is in Json format.
 I used JSONObject class in order to parse data from json to readeable result.
+The project is too simple but there is a lot of thing that i learned and i practiced many things. 
