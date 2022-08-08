@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
         Request request=new Request.Builder()
                 .url(url)
                 .post(requestBody)
-                .addHeader("X-RapidAPI-Key", "fe969f7600msh66b179c9495cefep1a0024jsn1d378f194d3d")
+                .addHeader("X-RapidAPI-Key", "YOUR-RAPİD-APİ-KEY")
                 .addHeader("X-RapidAPI-Host", "sameer-kumar-aztro-v1.p.rapidapi.com")
                 .build();
 
